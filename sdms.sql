@@ -298,7 +298,7 @@ INSERT INTO `residents` (`resident_id`, `userid`, `name`, `flat_id`, `contact`, 
 (123, 45, 'rafsat wairan', 3, '01857102597', 'wairanrafsat@gmail.com'),
 (124, 46, 'sanjida momotaz', 4, '02223212354', 'sanjida.momotaz1@northsouth.edu'),
 (125, 40, 'kazi hasib', 7, '02223212354', 'pranto@gmail.com'),
-(126, 37, 'tushar basak', 1, '01825815770', 'tushar.basak@northsouth.edu');
+(126, 57, 'tushar basak', 1, '01825815770', 'tushar.basak@northsouth.edu');
 
 INSERT INTO `contacts` (`contact_id`, `resident_id`, `contact_name`, `phone`) VALUES
 (6, 101, 'Guardian of Rahim', '01800000001'),
